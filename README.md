@@ -1,5 +1,9 @@
 # WhatsApp ChatBot of Al-Qur'an
-Ini merupakan ChatBot yang merespons keyword tertentu pada platform WhatsApp. Bot ini hanyalah refactor dari bot saya yang lain https://github.com/khavitidala/totsuka dengan modifikasi sedemikian rupa.
+Ini merupakan ChatBot yang merespons keyword tertentu pada platform WhatsApp. Bot ini hanyalah refactor dari bot saya yang lain 
+
+#panduan install 
+Cara Membuat BOT Quran di whatsapp dengan VPS / RDP / PC / Termux
+https://www.kumpulanremaja.com/2020/12/cara-membuat-bot-quran-di-whatsapp.html
 
 ## Fitur
 Untuk saat ini, fitur yang terdapat dalam bot ini adalah:
